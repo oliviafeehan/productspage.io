@@ -6,7 +6,7 @@
 <i>Healthy foods delivered right to your doorstep with convenient subscription plans tailored to your
 needs.</i>
 <br> 
-<h4><b>Payment Plan</b></h4>
+<h4><b>Payment Plan:</b></h4>
 <font size = "12">Subscription for 2 people (base plan)</font>
 <font size = "12">Add extra members for <b>$13.00</b> each</font>
 <br>
@@ -27,8 +27,9 @@ needs.</i>
 <br>
 <font size = "12">Upgrade option: healthy sweet treats (gluten & dairy free)</font>
 <br>
-<br>
-<a href="https://nourishmeals.com/blogs/news/6-ways-a-pre-made-meal-delivery-service-can-benefit-you?srsltid=AfmBOoom2ktPjnWmLvUXkPJYuNKs-JjQ33kjiIl14jFoZdqvBprEyaXN" target="_blank"> See how Delivery Service can Help You!</a> 
+<h4><b>How it Works:</b></h4>
+
+
 
 </body>
 </html>
