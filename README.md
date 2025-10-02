@@ -39,7 +39,7 @@ needs.</i>
 <font size = "12">5. Recieve and enjoy your fresh, healthy meals!</font>
 <br>
 <br>
-<p><a href="oliviafeehan1804@gmal.com">Email us for more information!</a></p>
+<a href = "mailto:oliviafeehan1804@gmail.com">Contact us here for more information!</a>
 
 </body>
 </html>
