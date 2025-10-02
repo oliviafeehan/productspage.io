@@ -39,8 +39,12 @@ needs.</i>
 <font size = "12">5. Recieve and enjoy your fresh, healthy meals!</font>
 <br>
 <br>
-
 <a href = "mailto:oliviafeehan1804@gmail.com">Contact us here for more information!</a>
+<br>
+<br>
+<img width="500" height="300" alt="ChatGPT Image Oct 1, 2025, 12_00_23 PM" src="https://github.com/user-attachments/assets/da651031-aed0-4c13-96f1-b499686ceeab" />
+<br>
+<br>
 
 </body>
 </html>
