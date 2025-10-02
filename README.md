@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1 style="color:Green;">Khanna: Fresh Grocery Delivery Service</h1>
+<h1 style="color:green;">Khanna: Fresh Grocery Delivery Service</h1>
 <br>
 <i>Healthy foods delivered right to your doorstep with convenient subscription plans tailored to your
 needs.</i>
