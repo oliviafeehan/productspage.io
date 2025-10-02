@@ -28,8 +28,18 @@ needs.</i>
 <font size = "12">Upgrade option: healthy sweet treats (gluten & dairy free)</font>
 <br>
 <h4><b>How it Works:</b></h4>
-
-
+<font size = "12">1. Pick out the protein, vegetable, and carb you want </font>
+<br>
+<font size = "12">2. Create your fresh box with those selctions</font>
+<br>
+<font size = "12">3. Enter your payment details securley</font>
+<br>
+<font size = "12">4. Place your order and confirm your subscription</font>
+<br>
+<font size = "12">5. Recieve and enjoy your fresh, healthy meals!</font>
+<br>
+<br>
+<p><a href="oliviafeehan1804@gmal.com">Email us for more information!</a></p>
 
 </body>
 </html>
