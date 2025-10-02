@@ -39,8 +39,8 @@ needs.</i>
 <font size = "12">5. Recieve and enjoy your fresh, healthy meals!</font>
 <br>
 <br>
-<a href="https://nourishmeals.com/blogs/news/6-ways-a-pre-made-meal-delivery-service-can-benefit-you?srsltid=AfmBOoom2ktPjnWmLvUXkPJYuNKs-JjQ33kjiIl14jFoZdqvBprEyaXN" target="_blank">
-See why Grocery Delivery Services can be Beneficial to You!</a>
+<a href="https://nourishmeals.com/blogs/news/6-ways-a-pre-made-meal-delivery-service-can-benefit-you?srsltid=AfmBOoom2ktPjnWmLvUXkPJYuNKs-JjQ33kjiIl14jFoZdqvBprEyaXN" target="_blank" rel="noopener noreferrer">See why Grocery Delivery Services can be Beneficial to You!</a>
+
 
 <a href = "mailto:oliviafeehan1804@gmail.com">Contact us here for more information!</a>
 
