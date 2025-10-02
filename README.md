@@ -26,5 +26,9 @@ needs.</i>
 <font size = "12">3 recipe cards tailored to your ingredients</font>
 <br>
 <font size = "12">Upgrade option: healthy sweet treats (gluten & dairy free)</font>
+<br>
+<br>
+<a href="https://nourishmeals.com/blogs/news/6-ways-a-pre-made-meal-delivery-service-can-benefit-you?srsltid=AfmBOoom2ktPjnWmLvUXkPJYuNKs-JjQ33kjiIl14jFoZdqvBprEyaXN" target="_blank"> See how Delivery Service can Help You!</a> 
+
 </body>
 </html>
